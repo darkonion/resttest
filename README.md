@@ -7,6 +7,8 @@ Run command:
 While on root folder type in terminal: 
 <br>
 <i> <b> mvn compile exec:java -Dexec.args="//path to file// //password//" </b> </i>
+<br><br>
+Path to file means <b>absolute</b> path to zip file with data
 
 <br>
 For example:
