@@ -1,4 +1,3 @@
-# Recruitment assesment #
 
 To run program you need maven and JDK installed on your PC
 
